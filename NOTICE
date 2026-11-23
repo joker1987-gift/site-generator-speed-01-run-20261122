@@ -1,0 +1,13 @@
+solve.js is an independent reimplementation of the behaviour of makefun-site 1.0.0, make.fun's own static
+site generator and the reference program of site-generator-speed-01 (its README and code state the dialect
+this entry reproduces byte for byte). makefun-site 1.0.0 is make.fun's own code, released under make.fun's
+MIT licence, and is derived from the two upstreams below; each upstream's licence and copyright line are
+kept here word for word, as the reference's own NOTICE keeps them.
+
+metalsmith 2.7.0, https://registry.npmjs.org/metalsmith/-/metalsmith-2.7.0.tgz
+  licence   MIT
+  Copyright © 2021 webketje; Copyright © 2014-2021 Segment
+
+marked 18.2.1, https://registry.npmjs.org/marked/-/marked-18.2.1.tgz
+  licence   MIT
+  Copyright (c) 2018+, MarkedJS (https://github.com/markedjs/); Copyright (c) 2011-2018, Christopher Jeffrey (https://github.com/chjj/)
